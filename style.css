@@ -1,5 +1,9 @@
 
+body{
 
+	height: 800px;
+
+}
 
 
 img.superbg {
@@ -21,12 +25,6 @@ img.superbg {
 
   }
 
-@media screen and (max-width: 640px) {
-  
 
-
-  #c{
-
-  }
 }
 
