@@ -14,10 +14,20 @@
 
 		<div class="row" style="margin-top: 200px;">
 
-			<div class="col-lg-8" style="background: red;height: 156px; margin: 0px;margin-top :10px; ">
+			<div class="col-lg-8" style="height: 156px;padding: 5px ;margin-bottom: 5px;">
+
+				<div style="width: 100%;height: 156px;background: red">
+					
+
+				</div>
 
 			</div>
-			<div class="col-lg-4" style="background: blue;height: 156px;margin: 0px;margin-top :10px; ">
+			<div class="col-lg-4" style="height: 156px;padding: 5px ;margin-bottom: 5px; ">
+
+				<div style="width: 100%;height: 156px;background: blue">
+					
+
+				</div>
 
 			</div>
 			
@@ -26,10 +36,46 @@
 
 		<div class="row" >
 
-			<div class="col-lg-8" style="background: red;height: 312px; margin: 0px;margin-top :10px; ">
+			<div class="col-lg-8" style="height: 312px;padding: 5px;margin-bottom: 5px; ">
+
+				<div style="width: 100%;height: 312px;background: red">
+					
+
+				</div>
 
 			</div>
-			<div class="col-lg-4" style="background: blue;height: 312px;margin: 0px;margin-top :10px; ">
+			<div class="col-lg-4" style=";height: 312px;  ">
+
+				<div class=".container-fluid">
+
+					<div class="row">
+
+						<div class="col-12" style="height: 156px;padding: 5px;margin-bottom: 5px; ">
+
+							<div style="width: 100%;height: 156px;background: yellow">
+
+
+							</div>
+
+							
+
+						</div>
+						<div class="col-12" style="height: 156px;padding: 5px ;margin-bottom: 5px;">
+
+							<div style="width: 100%;height: 156px;background: #FE8206 ">
+
+
+							</div>
+							
+
+						</div>
+						
+
+
+					</div>
+					
+
+				</div>
 
 			</div>
 			
