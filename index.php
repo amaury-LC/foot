@@ -160,9 +160,13 @@
 
 					<div class="row">
 
-						<div class="col-6" style="padding:0px;padding-bottom: 5px;padding-right: 2.5px; ">
+						<div class="col-6" style="padding:0px;padding-bottom: 3px;padding-right: 2.5px; ">
 
-							<div style="height: 78px;background: #06FED8;">
+							<div style="height: 78px;background: #3b5998;">
+
+								
+
+
 								
 
 							</div>
@@ -171,9 +175,9 @@
 							
 
 						</div>
-						<div class="col-6" style="padding: 0px;padding-bottom: 5px;padding-left: 2.5px">
+						<div class="col-6" style="padding: 0px;padding-bottom: 3px;padding-left: 2.5px">
 
-							<div style="height: 78px;background: green;">
+							<div style="height: 78px;background: #1DA1FE;">
 								
 
 							</div>
@@ -188,10 +192,12 @@
 
 						<div class="col-6" style="padding: 0px;padding-right: 2.5px;">
 
-							<div style="height: 73px;background: green;">
+							<figure style="height: 75px;background: #e62117;">
+
+								<img src="">
 								
 
-							</div>
+							</figure>
 
 
 							
@@ -199,7 +205,7 @@
 						</div>
 						<div class="col-6" style="padding: 0px;padding-left: 2.5px;">
 
-							<div style="height: 73px;background: #06FED8;">
+							<div style="height: 75px;background: #bc2a8d;">
 								
 
 							</div>
