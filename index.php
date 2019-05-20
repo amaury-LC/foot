@@ -6,13 +6,15 @@
 </head>
 <body>
 
+	<img src="img/stade3.jpg" class="superbg" />
 	
 
 
 	
 
 
-
-<script type="text/javascript" src="script.js"></script>
+	<script src="script/jquery.js" type="text/javascript"></script>
+	<script src="script/background.js" type="text/javascript"></script>	
+	<script type="text/javascript" src="script.js"></script>
 </body>
 </html>
