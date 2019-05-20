@@ -4,8 +4,29 @@
 
 img.superbg {
     position:fixed;
-    top:0;
+    top:0px;
     left:0;
     z-index:-1;
-   
+
 }
+
+#c{
+
+	background: yellow;
+	height: 156px;
+	width: 23.6%;
+	margin: 0px;
+	position: absolute;
+	left: 62%;top: 531px
+
+  }
+
+@media screen and (max-width: 640px) {
+  
+
+
+  #c{
+
+  }
+}
+
