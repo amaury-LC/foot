@@ -12,14 +12,24 @@
 
 	<div class="container" >
 
-		<div class="row" style="margin-top: 200px;">
+		<div class="row" style="margin-top: 200px;margin-bottom: 5px">
 
-			<div class="col-lg-8" style="height: 156px;background: #0AFE06;margin-bottom: 5px ">
+			<div class="col-lg-8" style="padding: 0px;padding-right: 5px">
+
+				<div style="height: 156px;background: #0AFE06;">
+					
+
+				</div>
 
 				
 
 			</div>
-			<div class="col-lg-4" style="height: 156px;background: blue;margin-bottom: 5px; ">
+			<div class="col-lg-4"  style="padding: 0px">
+
+				<div style="height: 156px;background: blue;">
+					
+
+				</div>
 
 				
 
@@ -28,42 +38,60 @@
 
 		</div>
 
-		<div class="row" >
+		<div class="row" style="margin-bottom: 5px" >
 
-			<div class="col-lg-8" style="height: 312px;padding: 0px;margin: 0px ;background: red">
+			<div class="col-lg-8" style="padding: 0px;margin: 0px ;padding-right: 5px">
 
-				
-
-			</div>
-			<div class="col-lg-4" style=";height: 312px; padding: 0px;margin: 0px;   ">
-
-				<div class="container">
-
-				<div class="row" >
-
-					<div class="col-12" style="height: 156px;background: #FEBE06">
-						
-
-					</div>
-					<div class="col-12" style="height: 156px;background: yellow">
-						
-
-					</div>
+				<div style="height: 312px;background: red;">
 					
 
 				</div>
 
+				
+
 			</div>
+			<div class="col-lg-4" style=";height: 312px; padding: 0px;   ">
+
+				<div class="container">
+
+					<div class="row"  >
+
+						<div class="col-12" style="padding: 0px;margin-bottom: 5px">
+
+
+							<div style="height: 156px;background: #FEBE06">
+
+
+							</div>
+
+
+
+
+						</div>
+						<div class="col-12" style="padding: 0px; ">
+
+							<div style="height: 150px;background: yellow;">
+
+
+							</div>
+
+
+						</div>
+
+
+					</div>
+
+				</div>
 
 				
 
-					
-
-						
 
 
-					
-					
+
+
+
+
+
 
 				
 
@@ -76,17 +104,29 @@
 
 		<!-- 2 partie -->
 
-		<div class="row">
+		<div class="row" style="margin-bottom: 5px">
 
-			<div class="col-lg-4" style="background: #0AFE06;height: 156px;" >
+			<div class="col-lg-4" style="padding: 0px;padding-right: 5px; " >
+
+				<div style="background: #0AFE06;height: 156px;">
+					
+
+
+				</div>
 
 				
 				
 
 
 			</div>
-			<div class="col-lg-8" style="background: #FE06FA;height: 156px">
- 
+			<div class="col-lg-8" style="padding : 0px">
+
+				<div style="background: #FE06FA;height: 156px">
+					
+
+
+				</div>
+
 				
 				
 
@@ -101,25 +141,42 @@
 
 		</div>
 
-	<!-- 	p3 -->
+		<!-- 	p3 -->
 
-		<div class = "row">
+		<div class = "row" style="margin-bottom: 5px">
 
-			<div class="col-lg-4" style="background: yellow;height: 156px;">
+			<div class="col-lg-4" style="padding: 0px;padding-right: 5px">
+
+				<div style="background: yellow;height: 156px; ">
+					
+
+				</div>
 				
 
 			</div>
-			<div class="col-lg-4" style="background: red;height: 156px;padding: 0px">
+			<div class="col-lg-4" style="height: 156px;padding: 0px">
 
-				<div class="container-fluid">
+				<div class="container">
 
 					<div class="row">
 
-						<div class="col-6" style="height: 78px;background: #06FED8;">
+						<div class="col-6" style="padding:0px;padding-bottom: 5px;padding-right: 2.5px; ">
+
+							<div style="height: 78px;background: #06FED8;">
+								
+
+							</div>
+
+
 							
 
 						</div>
-						<div class="col-6" style="height: 78px;background: green;">
+						<div class="col-6" style="padding: 0px;padding-bottom: 5px;padding-left: 2.5px">
+
+							<div style="height: 78px;background: green;">
+								
+
+							</div>
 							
 
 						</div>
@@ -129,11 +186,23 @@
 
 					<div class="row">
 
-						<div class="col-6" style="height: 78px;background: green;">
+						<div class="col-6" style="padding: 0px;padding-right: 2.5px;">
+
+							<div style="height: 73px;background: green;">
+								
+
+							</div>
+
+
 							
 
 						</div>
-						<div class="col-6" style="height: 78px;background: #06FED8;">
+						<div class="col-6" style="padding: 0px;padding-left: 2.5px;">
+
+							<div style="height: 73px;background: #06FED8;">
+								
+
+							</div>
 							
 
 						</div>
@@ -147,7 +216,12 @@
 				
 
 			</div>
-			<div class="col-lg-4" style="background: #0691FE;height: 156px;">
+			<div class="col-lg-4" style="padding: 0px;padding-left: 5px;">
+
+				<div style="background: #0691FE;height: 156px" >
+					
+
+				</div>
 				
 
 			</div>
