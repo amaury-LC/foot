@@ -14,12 +14,12 @@
 
 		<div class="row" style="margin-top: 200px;">
 
-			<div class="col-lg-8" style="height: 156px;padding: 0px;margin: 0px;background: #0AFE06 ">
+			<div class="col-lg-8" style="height: 156px;background: #0AFE06;margin-bottom: 5px ">
 
 				
 
 			</div>
-			<div class="col-lg-4" style="height: 156px;padding: 0px;margin: 0px;background: blue">
+			<div class="col-lg-4" style="height: 156px;background: blue;margin-bottom: 5px; ">
 
 				
 
@@ -97,6 +97,62 @@
 			
 
 
+
+
+		</div>
+
+	<!-- 	p3 -->
+
+		<div class = "row">
+
+			<div class="col-lg-4" style="background: yellow;height: 156px;">
+				
+
+			</div>
+			<div class="col-lg-4" style="background: red;height: 156px;padding: 0px">
+
+				<div class="container-fluid">
+
+					<div class="row">
+
+						<div class="col-6" style="height: 78px;background: #06FED8;">
+							
+
+						</div>
+						<div class="col-6" style="height: 78px;background: green;">
+							
+
+						</div>
+						
+
+					</div>
+
+					<div class="row">
+
+						<div class="col-6" style="height: 78px;background: green;">
+							
+
+						</div>
+						<div class="col-6" style="height: 78px;background: #06FED8;">
+							
+
+						</div>
+						
+
+					</div>
+					
+
+
+				</div>
+				
+
+			</div>
+			<div class="col-lg-4" style="background: #0691FE;height: 156px;">
+				
+
+			</div>
+
+			
 
 
 		</div>
