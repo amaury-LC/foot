@@ -14,17 +14,36 @@ img.superbg {
 
 }
 
-#c{
+/*#c{
 
 	background: yellow;
 	height: 156px;
 	width: 23.6%;
 	margin: 0px;
 	position: absolute;
-	left: 62%;top: 531px
+	left: 62%;top: 531px;
+
+  }*/
+
+
+  #transition{
+
+  	height: 156px;
+  	width: 300px;
+  	background: red
+
+
+  	
+
+    
+    
+    
+
 
   }
 
+background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30)),url(https://www.ol.fr/-/media/project/olg/olweb/cold-pages/04-pre-home-800x290-home.jpg?rev=ef8e126c4d354da8a244f2d93540037f
 
-}
+
+
 

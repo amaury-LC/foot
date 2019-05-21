@@ -16,7 +16,17 @@
 
 			<div class="col-lg-8" style="padding: 0px;padding-right: 5px">
 
-				<div style="height: 156px;background: #0AFE06;">
+				<div style="height: 156px;width: 100%">
+
+					<!-- <div id="transition">
+
+
+						
+
+					</div> -->
+					<img src="img/04 PRE HOME 800X290-HOME.jpg">
+
+
 					
 
 				</div>
@@ -192,7 +202,7 @@
 
 						<div class="col-6" style="padding: 0px;padding-right: 2.5px;">
 
-							<figure style="height: 75px;background: #e62117;">
+							<figure style="height: 75px;background-color: #e62117;">
 
 								<img src="">
 								
