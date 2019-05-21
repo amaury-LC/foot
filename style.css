@@ -26,24 +26,67 @@ img.superbg {
   }*/
 
 
-  #transition{
+  .tr{
 
   	height: 156px;
-  	width: 300px;
-  	background: red
+  	width: 0%;
+  	background: red;
+  	position: absolute;
+  	top : 0px;
+  	left: -50px;
+  	z-index: 2;
+  	transform: skew(30deg);
+
 
 
   	
 
-    
-    
-    
-
 
   }
 
-background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30)),url(https://www.ol.fr/-/media/project/olg/olweb/cold-pages/04-pre-home-800x290-home.jpg?rev=ef8e126c4d354da8a244f2d93540037f
+  .rubrique{
+
+  	height: 156px;
+  	width: 100%;
+  	overflow: hidden;
+  	position: relative;
+
+
+  	
+
+  }
+
+  .rubrique:hover > .tr{
+
+  	animation-name: glissement;
+  	animation-duration: 3s;
+  	width: 95%;
+
+  	
+  }
 
 
 
+
+  #photo1{
+
+  	position: sticky;
+  	top : 0px;
+
+  	
+  	
+  }
+
+
+
+@keyframes glissement {
+
+
+  from {
+    width: 0%;
+  }
+
+  to {
+    width: 95%;
+  }
 

@@ -16,15 +16,19 @@
 
 			<div class="col-lg-8" style="padding: 0px;padding-right: 5px">
 
-				<div style="height: 156px;width: 100%">
+				<div class="rubrique" >
 
-					<!-- <div id="transition">
+
+
+					<img id="photo1" src="img/04 PRE HOME 800X290-HOME.jpg">
+
+					<div class="tr">
 
 
 						
 
-					</div> -->
-					<img src="img/04 PRE HOME 800X290-HOME.jpg">
+					</div>
+					
 
 
 					
@@ -204,7 +208,7 @@
 
 							<figure style="height: 75px;background-color: #e62117;">
 
-								<img src="">
+								
 								
 
 							</figure>
