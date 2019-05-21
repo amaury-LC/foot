@@ -7,10 +7,10 @@ body{
 
 
 img.superbg {
-    position:fixed;
-    top:0px;
-    left:0;
-    z-index:-1;
+	position:fixed;
+	top:0px;
+	left:0;
+	z-index:-1;
 
 }
 
@@ -23,70 +23,199 @@ img.superbg {
 	position: absolute;
 	left: 62%;top: 531px;
 
-  }*/
+	}*/
 
 
-  .tr{
+	.tr{
 
-  	height: 156px;
-  	width: 0%;
-  	background: red;
-  	position: absolute;
-  	top : 0px;
-  	left: -50px;
-  	z-index: 2;
-  	transform: skew(30deg);
-
-
-
-  	
-
-
-  }
-
-  .rubrique{
-
-  	height: 156px;
-  	width: 100%;
-  	overflow: hidden;
-  	position: relative;
-
-
-  	
-
-  }
-
-  .rubrique:hover > .tr{
-
-  	animation-name: glissement;
-  	animation-duration: 3s;
-  	width: 95%;
-
-  	
-  }
+		height: 156px;
+		width: 0%;
+		background: blue;
+		position: absolute;
+		top : 0px;
+		left: -50px;
+		z-index: 2;
+		transform: skew(30deg);
+		opacity: 0.80;
 
 
 
 
-  #photo1{
-
-  	position: sticky;
-  	top : 0px;
-
-  	
-  	
-  }
 
 
+	}
 
-@keyframes glissement {
+	.tr1{
+
+		height: 156px;
+		width: 0%;
+		background: blue;
+		position: absolute;
+		top : 0px;
+		left: -50px;
+		z-index: 2;
+		transform: skew(-30deg);
+		opacity: 0.80;
 
 
-  from {
-    width: 0%;
-  }
 
-  to {
-    width: 95%;
-  }
+
+
+
+	}
+
+
+	.tr2{
+
+		height: 156px;
+		width: 0%;
+		background: red;
+		position: absolute;
+		top : 0px;
+		left: -50px;
+		z-index: 2;
+		transform: skew(-30deg);
+		opacity: 0.80;
+
+
+
+
+
+
+	}
+
+	.tr3{
+
+		height: 156px;
+		width: 0%;
+		background: red;
+		position: absolute;
+		top : 0px;
+		left: -50px;
+		z-index: 2;
+		transform: skew(30deg);
+		opacity: 1;
+
+
+
+
+
+
+	}
+
+	.rubrique{
+
+		height: 156px;
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+
+
+
+
+	}
+
+	.rubrique:hover > .tr{
+
+		animation-name: glissement;
+		animation-duration: 0.8s;
+		width: 90%;
+
+
+	}
+
+	.rubrique:hover > .tr1{
+
+		animation-name: gli;
+		animation-duration: 0.8s;
+		width: 100%;
+
+
+	}
+
+	.rubrique:hover > .tr2{
+
+		animation-name: gli2;
+		animation-duration: 0.8s;
+		width: 80%;
+
+
+	}
+
+	.rubrique:hover > .tr3{
+
+		animation-name: gli3;
+		animation-duration: 0.8s;
+		width: 70%;
+
+
+	}
+
+
+
+
+
+	#photo1{
+
+		position: sticky;
+		top : 0px;
+
+
+
+	}
+
+
+
+	@keyframes glissement {
+
+
+		from {
+			width: 0%;
+		}
+
+		to {
+			width: 90%;
+		}
+
+	}
+
+
+	@keyframes gli {
+
+
+		from {
+			width: 0%;
+		}
+
+		to {
+			width: 100%;
+		}
+
+	}
+
+	@keyframes gli2 {
+
+
+		from {
+			width: 0%;
+		}
+
+		to {
+			width: 80%;
+		}
+
+	}
+
+		@keyframes gli3 {
+
+
+		from {
+			width: 0%;
+		}
+
+		to {
+			width: 70%;
+		}
+
+	}
 
