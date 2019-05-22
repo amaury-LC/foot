@@ -64,9 +64,9 @@
 			</div>
 			<div class="col-lg-4"  style="padding: 0px">
 
-				<div class="rubrique">
+				<div class="rubrique8">
 
-					<img src="img/Billetterie_rc.jpg" width= 100% height="158">
+					
 
 
 
@@ -90,7 +90,9 @@
 
 				<div class="rubrique2">
 
-					<img  src="img/bjp-q15-phj6495_1.jpg">
+
+
+					
 					
 
 				</div>
@@ -120,9 +122,9 @@
 						</div>
 						<div class="col-12" style="padding: 0px; ">
 
-							<div class="rubrique">
+							<div class="rubrique6">
 
-								<img src="img/experience_rc.jpg" height="158" width="100%">
+								
 
 
 

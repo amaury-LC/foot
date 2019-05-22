@@ -121,11 +121,140 @@ img.superbg {
 		width: 100%;
 		overflow: hidden;
 		position: relative;
+		background-image: url("img/bjp-q15-phj6495_1.jpg");
+		background-position: top; /* Center the image */
+		background-repeat: no-repeat; /* Do not repeat the image */
+		background-size: cover; /* Resize the background image to cover the entire container */
+		position: relative;
 
 
 
 
 	}
+
+		.rubrique2_2{
+
+		height: 312px;
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+		background-image: url("img/bjp-q15-phj6495_1.jpg");
+		background-position: top; /* Center the image */
+		background-repeat: no-repeat; /* Do not repeat the image */
+		background-size: cover; /* Resize the background image to cover the entire container */
+		position: relative;
+
+
+
+
+	}
+
+	.rubrique2::before{
+
+		content: "";
+		position: absolute;
+
+		height: 312px;
+		width: 750px;
+		background-color: #14387F;
+		transform: skew(-30deg) translate(-1000px,0px);
+		
+		opacity: 0.8;
+		transition: transform 0.8s;
+
+		
+
+		
+
+		
+
+		
+		
+
+
+
+
+	}
+
+
+
+		.rubrique2::after{
+
+		content: "";
+		position: absolute;
+
+		height: 312px;
+		width: 750px;
+		background-color: #14387F;
+		transform: skew(-30deg) translate(-1000px,0px);
+		
+		opacity: 0.8;
+		transition: transform 0.8s;
+
+		
+
+		
+
+		
+
+		
+		
+
+
+
+
+	}
+	
+	.rubrique2:hover:before{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-15%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique2:hover:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-20%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	
+
+	
+
+
+
+
+
+
+
 
 	.rubrique3{
 
@@ -145,7 +274,7 @@ img.superbg {
 
 	}
 
-		.rubrique4{
+	.rubrique4{
 
 		height: 158px;
 		width: 100%;
@@ -163,7 +292,7 @@ img.superbg {
 
 	}
 
-		.rubrique5{
+	.rubrique5{
 
 		height: 158px;
 		width: 100%;
@@ -187,7 +316,7 @@ img.superbg {
 		width: 100%;
 		overflow: hidden;
 		position: relative;
-		background-image: url("img/acces_rc.jpg");
+		background-image: url("img/experience_rc.jpg");
 		background-position: top; /* Center the image */
 		background-repeat: no-repeat; /* Do not repeat the image */
 		background-size: cover; /* Resize the background image to cover the entire container */
@@ -216,6 +345,27 @@ img.superbg {
 
 
 	}
+
+	.rubrique8{
+
+		height: 158px;
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+		background-image: url("img/Billetterie_rc.jpg");
+		background-position: top; /* Center the image */
+		background-repeat: no-repeat; /* Do not repeat the image */
+		background-size: cover; /* Resize the background image to cover the entire container */
+
+
+
+
+
+
+	}
+
+
+
 
 
 	.rubrique:hover > .tr{
@@ -318,6 +468,35 @@ img.superbg {
 
 		to {
 			width: 70%;
+		}
+
+	}
+
+	@keyframes gli8 {
+
+
+		from {
+			transform: skew(-30deg) translate(-1000px,0px);
+		}
+
+		to {
+			transform: skew(-30deg) translate(-15%,0px);
+		}
+
+	}
+
+	@keyframes gli9 {
+
+
+		from {
+			transform: skew(-30deg) translate(-15%,0px);
+
+			
+		}
+
+		to {
+			transform: skew(-30deg) translate(-1000px,0px);
+			
 		}
 
 	}
