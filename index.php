@@ -64,7 +64,15 @@
 			</div>
 			<div class="col-lg-4"  style="padding: 0px">
 
-				<div style="height: 156px;background: blue;">
+				<div class="rubrique">
+
+					<img src="img/Billetterie_rc.jpg" width= 100% height="158">
+
+
+
+
+
+
 					
 
 				</div>
@@ -80,7 +88,9 @@
 
 			<div class="col-lg-8" style="padding: 0px;margin: 0px ;padding-right: 5px">
 
-				<div style="height: 312px;background: red;">
+				<div class="rubrique2">
+
+					<img  src="img/bjp-q15-phj6495_1.jpg">
 					
 
 				</div>
@@ -97,7 +107,9 @@
 						<div class="col-12" style="padding: 0px;margin-bottom: 5px">
 
 
-							<div style="height: 156px;background: #FEBE06">
+							<div class="rubrique">
+
+								<img src="img/oltv-logo-rc.jpg" height="158" width="100%">
 
 
 							</div>
@@ -108,7 +120,11 @@
 						</div>
 						<div class="col-12" style="padding: 0px; ">
 
-							<div style="height: 150px;background: yellow;">
+							<div class="rubrique">
+
+								<img src="img/experience_rc.jpg" height="158" width="100%">
+
+
 
 
 							</div>
@@ -146,7 +162,11 @@
 
 			<div class="col-lg-4" style="padding: 0px;padding-right: 5px; " >
 
-				<div style="background: #0AFE06;height: 156px;">
+				<div class="rubrique" >
+
+					<img src="img/Myol_rc.jpg" height="158" width="100%">
+
+
 					
 
 
@@ -159,7 +179,9 @@
 			</div>
 			<div class="col-lg-8" style="padding : 0px">
 
-				<div style="background: #FE06FA;height: 156px">
+				<div class="rubrique">
+
+					<img src="img/entreprise_rc.jpg" height="158" width="100%">
 					
 
 
@@ -185,7 +207,9 @@
 
 			<div class="col-lg-4" style="padding: 0px;padding-right: 5px">
 
-				<div style="background: yellow;height: 156px; ">
+				<div  class="rubrique">
+
+					<img src="img/fondation_rc.jpg" height="158" width="100%">
 					
 
 				</div>
@@ -244,6 +268,8 @@
 						<div class="col-6" style="padding: 0px;padding-left: 2.5px;">
 
 							<div style="height: 75px;background: #bc2a8d;">
+
+
 								
 
 							</div>
@@ -262,7 +288,9 @@
 			</div>
 			<div class="col-lg-4" style="padding: 0px;padding-left: 5px;">
 
-				<div style="background: #0691FE;height: 156px" >
+				<div class="rubrique">
+
+					<img src="img/acces_rc.jpg" width="100%" height="158">
 					
 
 				</div>

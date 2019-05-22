@@ -115,6 +115,19 @@ img.superbg {
 
 	}
 
+	.rubrique2{
+
+		height: 312px;
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+
+
+
+
+	}
+
+
 	.rubrique:hover > .tr{
 
 		animation-name: glissement;
@@ -206,7 +219,7 @@ img.superbg {
 
 	}
 
-		@keyframes gli3 {
+	@keyframes gli3 {
 
 
 		from {
