@@ -107,9 +107,9 @@
 						<div class="col-12" style="padding: 0px;margin-bottom: 5px">
 
 
-							<div class="rubrique">
+							<div class="rubrique7">
 
-								<img src="img/oltv-logo-rc.jpg" height="158" width="100%">
+								
 
 
 							</div>
@@ -162,9 +162,9 @@
 
 			<div class="col-lg-4" style="padding: 0px;padding-right: 5px; " >
 
-				<div class="rubrique" >
+				<div class="rubrique4" >
 
-					<img src="img/Myol_rc.jpg" height="158" width="100%">
+					
 
 
 					
@@ -179,9 +179,9 @@
 			</div>
 			<div class="col-lg-8" style="padding : 0px">
 
-				<div class="rubrique">
+				<div class="rubrique3">
 
-					<img src="img/entreprise_rc.jpg" height="158" width="100%">
+					
 					
 
 
@@ -207,9 +207,9 @@
 
 			<div class="col-lg-4" style="padding: 0px;padding-right: 5px">
 
-				<div  class="rubrique">
+				<div  class="rubrique5">
 
-					<img src="img/fondation_rc.jpg" height="158" width="100%">
+					
 					
 
 				</div>
@@ -288,7 +288,7 @@
 			</div>
 			<div class="col-lg-4" style="padding: 0px;padding-left: 5px;">
 
-				<div class="rubrique">
+				<div class="rubrique6">
 
 					<img src="img/acces_rc.jpg" width="100%" height="158">
 					

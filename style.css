@@ -127,6 +127,96 @@ img.superbg {
 
 	}
 
+	.rubrique3{
+
+		height: 158px;
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+		background-image: url("img/entreprise_rc.jpg");
+		background-position: top; /* Center the image */
+		background-repeat: no-repeat; /* Do not repeat the image */
+		background-size: cover; /* Resize the background image to cover the entire container */
+
+
+
+
+
+
+	}
+
+		.rubrique4{
+
+		height: 158px;
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+		background-image: url("img/Myol_rc.jpg");
+		background-position: top; /* Center the image */
+		background-repeat: no-repeat; /* Do not repeat the image */
+		background-size: cover; /* Resize the background image to cover the entire container */
+
+
+
+
+
+
+	}
+
+		.rubrique5{
+
+		height: 158px;
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+		background-image: url("img/fondation_rc.jpg");
+		background-position: top; /* Center the image */
+		background-repeat: no-repeat; /* Do not repeat the image */
+		background-size: cover; /* Resize the background image to cover the entire container */
+
+
+
+
+
+
+	}
+
+	.rubrique6{
+
+		height: 158px;
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+		background-image: url("img/acces_rc.jpg");
+		background-position: top; /* Center the image */
+		background-repeat: no-repeat; /* Do not repeat the image */
+		background-size: cover; /* Resize the background image to cover the entire container */
+
+
+
+
+
+
+	}
+
+	.rubrique7{
+
+		height: 158px;
+		width: 100%;
+		overflow: hidden;
+		position: relative;
+		background-image: url("img/oltv-logo-rc.jpg");
+		background-position: top; /* Center the image */
+		background-repeat: no-repeat; /* Do not repeat the image */
+		background-size: cover; /* Resize the background image to cover the entire container */
+
+
+
+
+
+
+	}
+
 
 	.rubrique:hover > .tr{
 
