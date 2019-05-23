@@ -14,17 +14,20 @@
 
 		<div class="row" style="margin-top: 200px;margin-bottom: 5px">
 
-			<div class="col-lg-8" style="padding: 0px;padding-right: 5px">
+			<div class="col-lg-8  v1" style="padding: 0px;padding-right: 5px">
 
-				<div class="rubrique" >
+				<div class="rubrique">
+
+					<div class="rubrique_1">
+
+						<div class="rubrique_2">
+							
+
+						</div>
+						
 
 
-
-					<img id="photo1" src="img/04 PRE HOME 800X290-HOME.jpg">
-
-					
-
-
+					</div>
 					
 
 
@@ -38,6 +41,19 @@
 			<div class="col-lg-4"  style="padding: 0px">
 
 				<div class="rubrique8">
+
+					<div class="rubrique_1">
+
+						<div class="rubrique_2">
+							
+
+						</div>
+						
+
+
+					</div>
+
+					
 
 					
 

@@ -33,7 +33,229 @@ img.superbg {
 		height: 156px;
 		width: 100%;
 		overflow: hidden;
+		
+		background-image: url("img/04 PRE HOME 800X290-HOME.jpg");
+		background-position: top; /* Center the image */
+		background-repeat: no-repeat; /* Do not repeat the image */
+		background-size: cover; /* Resize the background image to cover the entire container */
 		position: relative;
+
+
+
+
+	}
+
+	.rubrique_1{
+
+		width: 100%;
+
+		position: absolute;
+		overflow: hidden;
+		height: 158px;
+		
+
+
+	}
+
+	.rubrique_1::before{
+
+		content: "";
+		position: absolute;
+		
+
+
+		height: 158px;
+		width: 100%;
+		background: #14387F;
+		transform: skew(30deg) translate(-130%,0px);
+		
+		opacity: 0.8;
+		transition: transform 0.45s;
+
+
+
+
+	}
+
+	.v1:hover .rubrique_1:before{
+
+		
+
+		
+		transform  : skew(30deg) translate(-20%,0px);
+
+
+		
+
+
+
+
+	}
+
+	.rubrique_1::after{
+
+		content: "";
+		position: absolute;
+
+		height: 312px;
+		width: 100%;
+		background-color: #14387F;
+		transform: skew(-30deg) translate(-120%,0px);
+		
+		opacity: 0.8;
+		transition: transform 0.45s;
+
+
+
+		
+
+
+
+
+	}
+
+	.v1:hover .rubrique_1:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-12%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+
+
+	.rubrique_2::before{
+
+		content: "";
+		position: absolute;
+
+		height: 158px;
+		width: 100%;
+		background-color: #DA0019;
+		transform: skew(30deg) translate(-130%,0px);
+		
+		opacity: 0.8;
+		transition: transform 0.45s;
+		z-index: 2;
+		box-shadow: 0 0 20px rgba(0,0,0,7);
+
+		
+
+		
+
+		
+
+		
+		
+
+
+
+
+	}
+
+	.v1:hover .rubrique_2:before{
+
+		
+
+		
+		transform  : skew(30deg) translate(-35%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique_2::after{
+
+		content: "";
+		position: absolute;
+
+		height: 312px;
+		width: 100%;
+		background-color: #DA0019;
+		transform: skew(-30deg) translate(-130%,0px);
+		z-index: 1;
+		
+		opacity: 0.8;
+		transition: transform 0.45s;
+		box-shadow: 0 0 20px rgba(0,0,0,7);
+
+		
+
+		
+
+		
+
+		
+		
+
+
+
+
+	}
+
+	.v1:hover .rubrique_2:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-30%,0px);
+
+
+
+		
+
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+	.rubrique2_2::after{
+
+		content: "";
+		position: absolute;
+
+		height: 312px;
+		width: 750px;
+		background-color: #14387F;
+		transform: skew(-30deg) translate(-120%,0px);
+		
+		opacity: 0.8;
+		transition: transform 0.45s;
+
+
+
+		
 
 
 
@@ -42,10 +264,11 @@ img.superbg {
 
 	.rubrique2_2{
 
-		height: 312px;
+		
 		width: 100%;
 		position: absolute;
 		overflow: hidden;
+		height: 312px;
 		
 		
 
@@ -53,19 +276,25 @@ img.superbg {
 
 	}
 
+	
+
+
+
+
 
 
 	.rubrique2{
 
-		height: 312px;
+
 		width: 100%;
 		overflow: hidden;
+		height: 312px;
 		position: relative;
 		background-image: url("img/bjp-q15-phj6495_1.jpg");
 		background-position: top; /* Center the image */
 		background-repeat: no-repeat; /* Do not repeat the image */
 		background-size: cover; /* Resize the background image to cover the entire container */
-		position: relative;
+		
 
 
 
@@ -361,13 +590,22 @@ img.superbg {
 		height: 158px;
 		width: 100%;
 		overflow: hidden;
-		position: relative;
+		position: absolute;
 		background-image: url("img/Billetterie_rc.jpg");
 		background-position: top; /* Center the image */
 		background-repeat: no-repeat; /* Do not repeat the image */
 		background-size: cover; /* Resize the background image to cover the entire container */
 
 
+
+
+
+
+	}
+
+	.rubrique8:hover .rubrique_1:before{
+
+		transform  : skew(30deg) translate(-20%,0px);
 
 
 
