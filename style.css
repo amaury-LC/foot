@@ -100,7 +100,7 @@ img.superbg {
 		height: 312px;
 		width: 100%;
 		background-color: #14387F;
-		transform: skew(-30deg) translate(-120%,0px);
+		transform: skew(-30deg) translate(-130%,0px);
 		
 		opacity: 0.8;
 		transition: transform 0.45s;
@@ -513,6 +513,71 @@ img.superbg {
 
 	}
 
+	.rubrique3:hover .rubrique_1:before{
+
+		transform  : skew(30deg) translate(-20%,0px);
+
+
+
+
+	}
+
+	.rubrique3:hover .rubrique_1:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-12%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique3:hover .rubrique_2:before{
+
+		
+
+		
+		transform  : skew(30deg) translate(-35%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique3:hover .rubrique_2:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-30%,0px);
+
+
+
+		
+
+
+
+
+	}
+
 	.rubrique4{
 
 		height: 158px;
@@ -525,6 +590,71 @@ img.superbg {
 		background-size: cover; /* Resize the background image to cover the entire container */
 
 
+
+
+
+
+	}
+
+	.rubrique4:hover .rubrique_1:before{
+
+		transform  : skew(30deg) translate(-20%,0px);
+
+
+
+
+	}
+
+	.rubrique4:hover .rubrique_1:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-12%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique4:hover .rubrique_2:before{
+
+		
+
+		
+		transform  : skew(30deg) translate(-35%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique4:hover .rubrique_2:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-30%,0px);
+
+
+
+		
 
 
 
@@ -549,6 +679,72 @@ img.superbg {
 
 	}
 
+
+	.rubrique5:hover .rubrique_1:before{
+
+		transform  : skew(30deg) translate(-20%,0px);
+
+
+
+
+	}
+
+	.rubrique5:hover .rubrique_1:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-12%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique5:hover .rubrique_2:before{
+
+		
+
+		
+		transform  : skew(30deg) translate(-35%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique5:hover .rubrique_2:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-30%,0px);
+
+
+
+		
+
+
+
+
+	}
+
 	.rubrique6{
 
 		height: 158px;
@@ -561,6 +757,71 @@ img.superbg {
 		background-size: cover; /* Resize the background image to cover the entire container */
 
 
+
+
+
+
+	}
+
+	.rubrique6:hover .rubrique_1:before{
+
+		transform  : skew(30deg) translate(-20%,0px);
+
+
+
+
+	}
+
+	.rubrique6:hover .rubrique_1:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-12%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique6:hover .rubrique_2:before{
+
+		
+
+		
+		transform  : skew(30deg) translate(-35%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique6:hover .rubrique_2:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-30%,0px);
+
+
+
+		
 
 
 
@@ -585,6 +846,71 @@ img.superbg {
 
 	}
 
+	.rubrique7:hover .rubrique_1:before{
+
+		transform  : skew(30deg) translate(-20%,0px);
+
+
+
+
+	}
+
+	.rubrique7:hover .rubrique_1:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-12%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique7:hover .rubrique_2:before{
+
+		
+
+		
+		transform  : skew(30deg) translate(-35%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique7:hover .rubrique_2:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-30%,0px);
+
+
+
+		
+
+
+
+
+	}
+
 	.rubrique8{
 
 		height: 158px;
@@ -602,6 +928,8 @@ img.superbg {
 
 
 	}
+
+
 
 	.rubrique8:hover .rubrique_1:before{
 
@@ -668,24 +996,96 @@ img.superbg {
 
 	}
 
+	.rubrique9{
+
+		height: 158px;
+		width: 100%;
+		overflow: hidden;
+		position: absolute;
+		background-image: url("img/acces_rc.jpg");
+		background-position: top; /* Center the image */
+		background-repeat: no-repeat; /* Do not repeat the image */
+		background-size: cover; /* Resize the background image to cover the entire container */
 
 
+	}
 
 
+	.rubrique9:hover .rubrique_1:before{
 
+		transform  : skew(30deg) translate(-20%,0px);
 
-
-
-
-
-	#photo1{
-
-		position: sticky;
-		top : 0px;
 
 
 
 	}
+
+	.rubrique9:hover .rubrique_1:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-12%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique9:hover .rubrique_2:before{
+
+		
+
+		
+		transform  : skew(30deg) translate(-35%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique9:hover .rubrique_2:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-30%,0px);
+
+
+
+		
+
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
 
 
 

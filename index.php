@@ -108,6 +108,20 @@
 
 							<div class="rubrique7">
 
+								<div class="rubrique_1">
+
+									<div class="rubrique_2">
+
+
+									</div>
+
+
+
+
+
+
+								</div>
+
 								
 
 
@@ -120,6 +134,20 @@
 						<div class="col-12" style="padding: 0px; ">
 
 							<div class="rubrique6">
+
+								<div class="rubrique_1">
+
+									<div class="rubrique_2">
+
+
+									</div>
+
+
+
+
+
+
+								</div>
 
 								
 
@@ -163,6 +191,20 @@
 
 				<div class="rubrique4" >
 
+					<div class="rubrique_1">
+
+						<div class="rubrique_2">
+
+
+						</div>
+
+
+
+
+
+
+					</div>
+
 					
 
 
@@ -179,6 +221,20 @@
 			<div class="col-lg-8" style="padding : 0px">
 
 				<div class="rubrique3">
+
+					<div class="rubrique_1">
+
+						<div class="rubrique_2">
+
+
+						</div>
+
+
+
+
+
+
+					</div>
 
 					
 					
@@ -207,6 +263,20 @@
 			<div class="col-lg-4" style="padding: 0px;padding-right: 5px">
 
 				<div  class="rubrique5">
+
+					<div class="rubrique_1">
+
+						<div class="rubrique_2">
+
+
+						</div>
+
+
+
+
+
+
+					</div>
 
 					
 					
@@ -287,9 +357,17 @@
 			</div>
 			<div class="col-lg-4" style="padding: 0px;padding-left: 5px;">
 
-				<div class="rubrique6">
+				<div class="rubrique9">
 
-					<img src="img/acces_rc.jpg" width="100%" height="158">
+					<div class ="rubrique_1">
+
+						<div class="rubrique_2">
+							
+
+						</div>
+						
+
+					</div>
 					
 
 				</div>
