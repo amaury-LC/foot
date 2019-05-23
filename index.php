@@ -4,6 +4,9 @@
 	<title>foot</title>
 	<link rel="stylesheet" type="text/css" href="style.css" media="screen">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+
+
 
 </head>
 <body>
@@ -468,7 +471,14 @@
 
 						<div class="col-6" style="padding:0px;padding-bottom: 3px;padding-right: 2.5px; ">
 
-							<div style="height: 78px;background: #3b5998;">
+							<div style="height: 78px;background: #3b5998;display: flex;justify-content: center;align-items: center;">
+
+								
+
+									<i class="fab fa-facebook-f" style="font-size: 40px;color:white;"></i>
+									
+
+								
 
 								
 
@@ -483,7 +493,9 @@
 						</div>
 						<div class="col-6" style="padding: 0px;padding-bottom: 3px;padding-left: 2.5px">
 
-							<div style="height: 78px;background: #1DA1FE;">
+							<div style="height: 78px;background: #1DA1FE;display: flex;justify-content: center;align-items: center;">
+
+								<i class="fab fa-twitter" style="font-size: 40px;color:white;"></i>
 								
 
 							</div>
@@ -498,7 +510,9 @@
 
 						<div class="col-6" style="padding: 0px;padding-right: 2.5px;">
 
-							<figure style="height: 75px;background-color: #e62117;">
+							<figure style="height: 75px;background-color: #e62117;display: flex;justify-content: center;align-items: center;">
+
+								<i class="fab fa-youtube" style="font-size: 40px;color:white;"></i>
 
 								
 								
@@ -511,7 +525,9 @@
 						</div>
 						<div class="col-6" style="padding: 0px;padding-left: 2.5px;">
 
-							<div style="height: 75px;background: #bc2a8d;">
+							<div style="height: 75px;background: #bc2a8d;display: flex;justify-content: center;align-items: center;">
+
+								<i class="fab fa-instagram" style="font-size: 40px;color:white;"></i>
 
 
 								
