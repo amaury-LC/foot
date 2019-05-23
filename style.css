@@ -612,6 +612,62 @@ img.superbg {
 
 	}
 
+	.rubrique8:hover .rubrique_1:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-12%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique8:hover .rubrique_2:before{
+
+		
+
+		
+		transform  : skew(30deg) translate(-35%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.rubrique8:hover .rubrique_2:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-30%,0px);
+
+
+
+		
+
+
+
+
+	}
+
 
 
 
