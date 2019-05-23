@@ -16,6 +16,23 @@
 
 			<div class="col-lg-8  v1" style="padding: 0px;padding-right: 5px">
 
+				<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+
+					<p style="color: white;font-size:2em;position: relative;top: 50px;left: -5%;text-transform: uppercase;
+					letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">Boutique</p>
+					<div style="position: relative;display: flex;left: -13%;z-index: -8" >
+						<div style="height: 50px;width: 8px;background: #14387F;"></div>
+						<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+					</div>
+					<div style="position: relative;display: flex;left: -15%;top: 106px;z-index: -8">
+						<div style="height: 50px;width: 8px;background: #14387F;"></div>
+						<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+					</div>
+
+					
+
+				</div>
+
 				<h3 class="apparition">Découvrez les nouveaux maillots 19/20</h3>
 				<p class="apparition1">Trouvez l’article aux couleurs de l’OL qui vous convient en <br> quelques clics parmi de nombreuses références !</p>
 
@@ -47,6 +64,25 @@
 
 
 				<div class="rubrique8">
+
+					<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+
+						<p style="color: white;font-size:2em;position: relative;top: 60px;left: -5%;text-transform: uppercase;
+						letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">Billetterie</p>
+						<div style="position: relative;display: flex;left: -13%;z-index: -8" >
+							<div style="height: 50px;width: 8px;background: #14387F;"></div>
+							<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+						</div>
+						<div style="position: relative;display: flex;left: -17%;top: 109px;z-index: -8">
+							<div style="height: 50px;width: 8px;background: #14387F;"></div>
+							<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+						</div>
+
+
+
+					</div>
+
+
 
 					<h3 class="apparition2">Réservez vos places et abonnements</h3>
 					<p class="apparition1_2">Assistez aux matches de<br> l’Olympique Lyonnais !</p>
@@ -86,8 +122,26 @@
 
 			<div class="col-lg-8  v" style="padding: 0px;margin: 0px ;padding-right: 5px">
 
+				<div style="height: 312px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+
+					<p style="color: white;font-size:2em;position: relative;top: 130px;left: -5%;text-transform: uppercase;
+					letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">Actualités OL</p>
+					<div style="position: relative;display: flex;left: -13%;z-index: -8" >
+						<div style="height: 50px;width: 8px;background: #14387F;"></div>
+						<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+					</div>
+					<div style="position: relative;display: flex;left: -15%;top: 262px;z-index: -8">
+						<div style="height: 50px;width: 8px;background: #14387F;"></div>
+						<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+					</div>
+
+					
+
+				</div>
+
 				<h3 class="apparition">Suivez les actualités de <br> l'Olympique Lyonnais</h3>
 				<p class="apparition1">Retrouvez toutes les actualités des équipes professionnelles,<br> de l’Academy et du club, l'info en temps réel et en images ! <br> Découvrez également des contenus exclusifs et les événements <br> à ne pas manquer.</p>
+
 
 
 
@@ -127,6 +181,23 @@
 
 							<div class="rubrique7">
 
+								<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+
+									<p style="color: white;font-size:2em;position: relative;top: 60px;left: -5%;text-transform: uppercase;
+									letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">OLTV</p>
+									<div style="position: relative;display: flex;left: -13%;z-index: -8" >
+										<div style="height: 50px;width: 8px;background: #14387F;"></div>
+										<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+									</div>
+									<div style="position: relative;display: flex;left: -17%;top: 109px;z-index: -8">
+										<div style="height: 50px;width: 8px;background: #14387F;"></div>
+										<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+									</div>
+
+
+
+								</div>
+
 								<h3 class="apparition2_7">Abonnez-vous à la chaîne<br> officielle de l'OL</h3>
 								<p class="apparition1_2_7">Ne manquez pas vos émissions,<br> reportages et lives pour tout savoir sur<br> l’Olympique Lyonnais.</p>
 
@@ -158,6 +229,23 @@
 							
 
 							<div class="rubrique6">
+
+								<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+
+									<p style="color: white;font-size:2em;position: relative;top: 60px;left: -5%;text-transform: uppercase;
+									letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">Expériences</p>
+									<div style="position: relative;display: flex;left: -13%;z-index: -8" >
+										<div style="height: 50px;width: 8px;background: #14387F;"></div>
+										<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+									</div>
+									<div style="position: relative;display: flex;left: -17%;top: 109px;z-index: -8">
+										<div style="height: 50px;width: 8px;background: #14387F;"></div>
+										<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+									</div>
+
+
+
+								</div>
 
 								<h3 class="apparition2_6">Partagez un instant<br> inoubliable</h3>
 								<p class="apparition1_2_6">OL le Musée, Visite de Stade, Escape Game…</p>
@@ -218,6 +306,23 @@
 
 				<div class="rubrique4" >
 
+					<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+
+						<p style="color: white;font-size:2em;position: relative;top: 60px;left: -5%;text-transform: uppercase;
+						letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">Fidélité MYOL</p>
+						<div style="position: relative;display: flex;left: -13%;z-index: -8" >
+							<div style="height: 50px;width: 8px;background: #14387F;"></div>
+							<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+						</div>
+						<div style="position: relative;display: flex;left: -17%;top: 109px;z-index: -8">
+							<div style="height: 50px;width: 8px;background: #14387F;"></div>
+							<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+						</div>
+
+
+
+					</div>
+
 					<h3 class="apparition2_3">Rejoignez le programme de<br> fidélité MYOL</h3>
 					<p class="apparition1_2_3">Profitez d'avantages exclusifs !</p>
 
@@ -251,6 +356,23 @@
 			<div class="col-lg-8" style="padding : 0px">
 
 				<div class="rubrique3">
+
+					<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+
+						<p style="color: white;font-size:2em;position: relative;top: 60px;left: -5%;text-transform: uppercase;
+						letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">OL Entreprises</p>
+						<div style="position: relative;display: flex;left: -6.5%;z-index: -8" >
+							<div style="height: 50px;width: 8px;background: #14387F;"></div>
+							<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+						</div>
+						<div style="position: relative;display: flex;left: -9%;top: 109px;z-index: -8">
+							<div style="height: 50px;width: 8px;background: #14387F;"></div>
+							<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+						</div>
+
+
+
+					</div>
 
 					<h3 class="apparition2_3">Découvrez toutes les offres destinées aux entreprises</h3>
 					<p class="apparition1_2_3">Billets de match, abonnements, événements d’entreprise… Rejoignez<br> la communauté OL Business Team !</p>
@@ -296,6 +418,23 @@
 			<div class="col-lg-4" style="padding: 0px;padding-right: 5px">
 
 				<div  class="rubrique5">
+
+					<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+
+						<p style="color: white;font-size:2em;position: relative;top: 60px;left: -5%;text-transform: uppercase;
+						letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">Fondation OL</p>
+						<div style="position: relative;display: flex;left: -13%;z-index: -8" >
+							<div style="height: 50px;width: 8px;background: #14387F;"></div>
+							<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+						</div>
+						<div style="position: relative;display: flex;left: -17%;top: 109px;z-index: -8">
+							<div style="height: 50px;width: 8px;background: #14387F;"></div>
+							<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+						</div>
+
+
+
+					</div>
 
 					<h3 class="apparition2_3">Suivez les actualités<br> d'OL Fondation</h3>
 					<p class="apparition1_2_3">Découvrez tous les engagements<br> solidaires et les nombreux événements.</p>
@@ -394,6 +533,23 @@
 			<div class="col-lg-4" style="padding: 0px;padding-left: 5px;">
 
 				<div class="rubrique9">
+
+					<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+
+						<p style="color: white;font-size:2em;position: relative;top: 60px;left: -5%;text-transform: uppercase;
+						letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">Accessibilité</p>
+						<div style="position: relative;display: flex;left: -15%;z-index: -8" >
+							<div style="height: 50px;width: 8px;background: #14387F;"></div>
+							<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+						</div>
+						<div style="position: relative;display: flex;left: -18%;top: 109px;z-index: -8">
+							<div style="height: 50px;width: 8px;background: #14387F;"></div>
+							<div style="height: 50px;width: 8px;background: #DA0019;"></div>
+						</div>
+
+
+
+					</div>
 
 					<h3 class="apparition2_3">Comment venir au stade ?</h3>
 					<p class="apparition1_2_3">Retrouvez les différents moyens<br> d'accès pour vous rendre au<br> Groupama Stadium.</p>
