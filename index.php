@@ -11,13 +11,17 @@
 </head>
 <body>
 
-	<img src="img/stadeb.jpg" class="superbg" />
+	<img src="img/bg-prehome.jpg" class="superbg" />
 
 	<div class="container" >
 
 		<div class="row" style="margin-top: 200px;margin-bottom: 5px">
 
 			<div class="col-lg-8  v1" style="padding: 0px;padding-right: 5px">
+
+				<div style="background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30));;position: absolute;width: 100%;height: 158px;z-index: 1">
+
+				</div>
 
 				<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index:1;justify-content: flex-end;">
 
@@ -61,12 +65,18 @@
 				
 
 			</div>
-			<div class="col-lg-4 v10"  style="padding: 0px">
+			<div class="col-lg-4"  style="padding: 0px">
 
 				
 
 
 				<div class="rubrique8">
+
+					<div style="background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30));;position: absolute;width: 100%;height: 158px;z-index: 1">
+						
+					</div>
+
+					
 
 					<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
 
@@ -125,6 +135,10 @@
 
 			<div class="col-lg-8  v" style="padding: 0px;margin: 0px ;padding-right: 5px">
 
+				<div style="background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30));;position: absolute;width: 100%;height: 100%;z-index: 1">
+
+				</div>
+
 				<div style="height: 312px;width: 100%;display: flex;position: absolute;z-index: 1;justify-content: flex-end;">
 
 					<p style="color: white;font-size:2em;position: relative;top: 130px;left: -5%;text-transform: uppercase;
@@ -181,6 +195,10 @@
 
 						<div class="col-12" style="padding: 0px;margin-bottom: 5px">
 
+							<div style="background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30));;position: absolute;width: 100%;height: 158px;z-index: 1">
+
+							</div>
+
 
 							<div class="rubrique7">
 
@@ -232,6 +250,10 @@
 							
 
 							<div class="rubrique6">
+
+								<div style="background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30));;position: absolute;width: 100%;height: 158px;z-index: 1">
+
+								</div>
 
 								<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
 
@@ -307,6 +329,10 @@
 
 			<div class="col-lg-4" style="padding: 0px;padding-right: 5px; " >
 
+				<div style="background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30));;position: absolute;width: 100%;height: 158px;z-index: 1">
+
+				</div>
+
 				<div class="rubrique4" >
 
 					<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
@@ -359,6 +385,10 @@
 			<div class="col-lg-8" style="padding : 0px">
 
 				<div class="rubrique3">
+
+					<div style="background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30));;position: absolute;width: 100%;height: 158px;z-index: 1">
+						
+					</div>
 
 					<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
 
@@ -416,11 +446,15 @@
 
 		<!-- 	p3 -->
 
-		<div class = "row" style="margin-bottom: 5px">
+		<div class = "row" style="margin-bottom: 2px">
 
-			<div class="col-lg-4" style="padding: 0px;padding-right: 5px">
+			<div class="col-lg-4" style="padding: 0px;padding-right: 5px;margin-top: 2px;margin-bottom: 2px;">
 
 				<div  class="rubrique5">
+
+					<div style="background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30));;position: absolute;width: 100%;height: 158px;z-index: 1">
+						
+					</div>
 
 					<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
 
@@ -463,7 +497,7 @@
 				
 
 			</div>
-			<div class="col-lg-4" style="height: 156px;padding: 0px">
+			<div class="col-lg-4" style="height: 156px;padding: 0px;margin-top: 2px;margin-bottom: 2px;">
 
 				<div class="container">
 
@@ -475,8 +509,8 @@
 
 								
 
-									<i class="fab fa-facebook-f" style="font-size: 40px;color:white;"></i>
-									
+								<i class="fab fa-facebook-f" style="font-size: 40px;color:white;"></i>
+
 
 								
 
@@ -546,9 +580,13 @@
 				
 
 			</div>
-			<div class="col-lg-4" style="padding: 0px;padding-left: 5px;">
+			<div class="col-lg-4" style="padding: 0px;padding-left: 5px;margin-top: 2px;margin-bottom: 2px;">
 
 				<div class="rubrique9">
+
+					<div style="background:linear-gradient(rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.30));;position: absolute;width: 100%;height: 158px;z-index: 1">
+						
+				</div>
 
 					<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
 

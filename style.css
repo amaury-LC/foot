@@ -43,15 +43,19 @@ img.superbg {
 
 
 
+
 	}
 
 	.rubrique_1{
+
+	
 
 		width: 100%;
 
 		position: absolute;
 		overflow: hidden;
 		height: 158px;
+
 		
 
 
@@ -61,6 +65,7 @@ img.superbg {
 
 		content: "";
 		position: absolute;
+
 		
 
 
@@ -920,7 +925,7 @@ img.superbg {
 		height: 158px;
 		width: 100%;
 		overflow: hidden;
-		position: absolute;
+		position: relative;
 		background-image: url("img/Billetterie_rc.jpg");
 		background-position: top; /* Center the image */
 		background-repeat: no-repeat; /* Do not repeat the image */
