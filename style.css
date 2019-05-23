@@ -26,82 +26,7 @@ img.superbg {
 	}*/
 
 
-	.tr{
-
-		height: 156px;
-		width: 0%;
-		background: blue;
-		position: absolute;
-		top : 0px;
-		left: -50px;
-		z-index: 2;
-		transform: skew(30deg);
-		opacity: 0.80;
-
-
-
-
-
-
-	}
-
-	.tr1{
-
-		height: 156px;
-		width: 0%;
-		background: blue;
-		position: absolute;
-		top : 0px;
-		left: -50px;
-		z-index: 2;
-		transform: skew(-30deg);
-		opacity: 0.80;
-
-
-
-
-
-
-	}
-
-
-	.tr2{
-
-		height: 156px;
-		width: 0%;
-		background: red;
-		position: absolute;
-		top : 0px;
-		left: -50px;
-		z-index: 2;
-		transform: skew(-30deg);
-		opacity: 0.80;
-
-
-
-
-
-
-	}
-
-	.tr3{
-
-		height: 156px;
-		width: 0%;
-		background: red;
-		position: absolute;
-		top : 0px;
-		left: -50px;
-		z-index: 2;
-		transform: skew(30deg);
-		opacity: 1;
-
-
-
-
-
-
-	}
+	
 
 	.rubrique{
 
@@ -114,6 +39,21 @@ img.superbg {
 
 
 	}
+
+	.rubrique2_2{
+
+		height: 312px;
+		width: 100%;
+		position: absolute;
+		overflow: hidden;
+		
+		
+
+
+
+	}
+
+
 
 	.rubrique2{
 
@@ -130,19 +70,50 @@ img.superbg {
 
 
 
+
 	}
 
-		.rubrique2_2{
+	.rubrique2_2::before{
+
+		content: "";
+		position: absolute;
+		
+
 
 		height: 312px;
-		width: 100%;
-		overflow: hidden;
-		position: relative;
-		background-image: url("img/bjp-q15-phj6495_1.jpg");
-		background-position: top; /* Center the image */
-		background-repeat: no-repeat; /* Do not repeat the image */
-		background-size: cover; /* Resize the background image to cover the entire container */
-		position: relative;
+		width: 750px;
+		background: #14387F;
+		transform: skew(30deg) translate(-130%,0px);
+		
+		opacity: 0.8;
+		transition: transform 0.45s;
+
+
+
+
+		
+
+
+
+
+	}
+
+	.rubrique2_2::after{
+
+		content: "";
+		position: absolute;
+
+		height: 312px;
+		width: 750px;
+		background-color: #14387F;
+		transform: skew(-30deg) translate(-120%,0px);
+		
+		opacity: 0.8;
+		transition: transform 0.45s;
+
+
+
+		
 
 
 
@@ -156,11 +127,13 @@ img.superbg {
 
 		height: 312px;
 		width: 750px;
-		background-color: #14387F;
-		transform: skew(-30deg) translate(-1000px,0px);
+		background-color: #DA0019;
+		transform: skew(30deg) translate(-130%,0px);
 		
 		opacity: 0.8;
-		transition: transform 0.8s;
+		transition: transform 0.45s;
+		z-index: 2;
+		box-shadow: 0 0 20px rgba(0,0,0,7);
 
 		
 
@@ -178,18 +151,19 @@ img.superbg {
 
 
 
-		.rubrique2::after{
+	.rubrique2::after{
 
 		content: "";
 		position: absolute;
 
 		height: 312px;
 		width: 750px;
-		background-color: #14387F;
-		transform: skew(-30deg) translate(-1000px,0px);
+		background-color: #DA0019;
+		transform: skew(-30deg) translate(-130%,0px);
 		
 		opacity: 0.8;
-		transition: transform 0.8s;
+		transition: transform 0.45s;
+		box-shadow: 0 0 20px rgba(0,0,0,7);
 
 		
 
@@ -205,12 +179,12 @@ img.superbg {
 
 	}
 	
-	.rubrique2:hover:before{
+	.v:hover .rubrique2:before{
 
 		
 
 		
-		transform  : skew(-30deg) translate(-15%,0px);
+		transform  : skew(30deg) translate(-35%,0px);
 
 
 
@@ -225,18 +199,54 @@ img.superbg {
 
 	}
 
-	.rubrique2:hover:after{
+	.v:hover .rubrique2_2:before{
 
 		
 
 		
-		transform  : skew(-30deg) translate(-20%,0px);
+		transform  : skew(30deg) translate(-20%,0px);
 
 
 
 		
 		
 		
+
+		
+
+
+
+
+	}
+
+	.v:hover .rubrique2_2:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-12%,0px);
+
+
+
+		
+		
+		
+
+		
+
+
+
+
+	}
+
+	.v:hover .rubrique2:after{
+
+		
+
+		
+		transform  : skew(-30deg) translate(-30%,0px);
+
+
 
 		
 
@@ -368,41 +378,7 @@ img.superbg {
 
 
 
-	.rubrique:hover > .tr{
 
-		animation-name: glissement;
-		animation-duration: 0.8s;
-		width: 90%;
-
-
-	}
-
-	.rubrique:hover > .tr1{
-
-		animation-name: gli;
-		animation-duration: 0.8s;
-		width: 100%;
-
-
-	}
-
-	.rubrique:hover > .tr2{
-
-		animation-name: gli2;
-		animation-duration: 0.8s;
-		width: 80%;
-
-
-	}
-
-	.rubrique:hover > .tr3{
-
-		animation-name: gli3;
-		animation-duration: 0.8s;
-		width: 70%;
-
-
-	}
 
 
 
@@ -418,86 +394,4 @@ img.superbg {
 	}
 
 
-
-	@keyframes glissement {
-
-
-		from {
-			width: 0%;
-		}
-
-		to {
-			width: 90%;
-		}
-
-	}
-
-
-	@keyframes gli {
-
-
-		from {
-			width: 0%;
-		}
-
-		to {
-			width: 100%;
-		}
-
-	}
-
-	@keyframes gli2 {
-
-
-		from {
-			width: 0%;
-		}
-
-		to {
-			width: 80%;
-		}
-
-	}
-
-	@keyframes gli3 {
-
-
-		from {
-			width: 0%;
-		}
-
-		to {
-			width: 70%;
-		}
-
-	}
-
-	@keyframes gli8 {
-
-
-		from {
-			transform: skew(-30deg) translate(-1000px,0px);
-		}
-
-		to {
-			transform: skew(-30deg) translate(-15%,0px);
-		}
-
-	}
-
-	@keyframes gli9 {
-
-
-		from {
-			transform: skew(-30deg) translate(-15%,0px);
-
-			
-		}
-
-		to {
-			transform: skew(-30deg) translate(-1000px,0px);
-			
-		}
-
-	}
 

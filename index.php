@@ -22,34 +22,7 @@
 
 					<img id="photo1" src="img/04 PRE HOME 800X290-HOME.jpg">
 
-					<div class="tr">
-
-
-						
-
-					</div>
-					<div class="tr1">
-
-
-						
-
-					</div>
-					<div class="tr3">
-
-						
-
-
-						
-
-					</div>
-					<div class="tr2">
-
-
-
-
-						
-
-					</div>
+					
 
 
 					
@@ -86,16 +59,24 @@
 
 		<div class="row" style="margin-bottom: 5px" >
 
-			<div class="col-lg-8" style="padding: 0px;margin: 0px ;padding-right: 5px">
+			<div class="col-lg-8  v" style="padding: 0px;margin: 0px ;padding-right: 5px">
+
+				
 
 				<div class="rubrique2">
 
+					<div class="rubrique2_2">
 
 
-					
-					
+					</div>
+
+
+
+
+
 
 				</div>
+				
 
 				
 
