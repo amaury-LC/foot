@@ -19,7 +19,7 @@
 
 			<div class="col-lg-8  v1" style="padding: 0px;padding-right: 5px">
 
-				<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+				<div style="height: 158px;width: 100%;display: flex;position: absolute;z-index:1;justify-content: flex-end;">
 
 					<p style="color: white;font-size:2em;position: relative;top: 50px;left: -5%;text-transform: uppercase;
 					letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">Boutique</p>
@@ -41,9 +41,9 @@
 
 				<div class="rubrique">
 
-					<div class="rubrique_1">
+					<div class="rubrique_1" style="z-index: 2" >
 
-						<div class="rubrique_2">
+						<div class="rubrique_2" style="z-index: 3">
 							
 
 						</div>
@@ -90,9 +90,9 @@
 					<h3 class="apparition2">Réservez vos places et abonnements</h3>
 					<p class="apparition1_2">Assistez aux matches de<br> l’Olympique Lyonnais !</p>
 
-					<div class="rubrique_1">
+					<div class="rubrique_1" style="z-index: 3">
 
-						<div class="rubrique_2">
+						<div class="rubrique_2" style="z-index: 3" >
 							
 
 						</div>
@@ -125,7 +125,7 @@
 
 			<div class="col-lg-8  v" style="padding: 0px;margin: 0px ;padding-right: 5px">
 
-				<div style="height: 312px;width: 100%;display: flex;position: absolute;z-index: 2;justify-content: flex-end;">
+				<div style="height: 312px;width: 100%;display: flex;position: absolute;z-index: 1;justify-content: flex-end;">
 
 					<p style="color: white;font-size:2em;position: relative;top: 130px;left: -5%;text-transform: uppercase;
 					letter-spacing: 1px;font-size: 1.3em;font-weight: bold;text-shadow: 2px 2px 2px #000;">Actualités OL</p>
@@ -150,9 +150,9 @@
 
 				
 
-				<div class="rubrique2">
+				<div class="rubrique2"  >
 
-					<div class="rubrique2_2">
+					<div class="rubrique2_2" >
 
 
 
@@ -204,9 +204,9 @@
 								<h3 class="apparition2_7">Abonnez-vous à la chaîne<br> officielle de l'OL</h3>
 								<p class="apparition1_2_7">Ne manquez pas vos émissions,<br> reportages et lives pour tout savoir sur<br> l’Olympique Lyonnais.</p>
 
-								<div class="rubrique_1">
+								<div class="rubrique_1" style="z-index: 3">
 
-									<div class="rubrique_2">
+									<div class="rubrique_2" style="z-index: 3">
 
 
 									</div>
@@ -253,9 +253,9 @@
 								<h3 class="apparition2_6">Partagez un instant<br> inoubliable</h3>
 								<p class="apparition1_2_6">OL le Musée, Visite de Stade, Escape Game…</p>
 
-								<div class="rubrique_1">
+								<div class="rubrique_1" style="z-index: 3">
 
-									<div class="rubrique_2">
+									<div class="rubrique_2" style="z-index: 3">
 
 
 									</div>
@@ -329,9 +329,9 @@
 					<h3 class="apparition2_3">Rejoignez le programme de<br> fidélité MYOL</h3>
 					<p class="apparition1_2_3">Profitez d'avantages exclusifs !</p>
 
-					<div class="rubrique_1">
+					<div class="rubrique_1" style="z-index: 3">
 
-						<div class="rubrique_2">
+						<div class="rubrique_2" style="z-index: 3">
 
 
 						</div>
@@ -380,9 +380,9 @@
 					<h3 class="apparition2_3">Découvrez toutes les offres destinées aux entreprises</h3>
 					<p class="apparition1_2_3">Billets de match, abonnements, événements d’entreprise… Rejoignez<br> la communauté OL Business Team !</p>
 
-					<div class="rubrique_1">
+					<div class="rubrique_1" style="z-index: 3">
 
-						<div class="rubrique_2">
+						<div class="rubrique_2" style="z-index: 3">
 
 
 						</div>
@@ -442,9 +442,9 @@
 					<h3 class="apparition2_3">Suivez les actualités<br> d'OL Fondation</h3>
 					<p class="apparition1_2_3">Découvrez tous les engagements<br> solidaires et les nombreux événements.</p>
 
-					<div class="rubrique_1">
+					<div class="rubrique_1" style="z-index: 3">
 
-						<div class="rubrique_2">
+						<div class="rubrique_2" style="z-index: 3">
 
 
 						</div>
@@ -570,9 +570,9 @@
 					<h3 class="apparition2_3">Comment venir au stade ?</h3>
 					<p class="apparition1_2_3">Retrouvez les différents moyens<br> d'accès pour vous rendre au<br> Groupama Stadium.</p>
 
-					<div class ="rubrique_1">
+					<div class ="rubrique_1" style="z-index: 3">
 
-						<div class="rubrique_2">
+						<div class="rubrique_2" style="z-index: 3">
 							
 
 						</div>
