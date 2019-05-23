@@ -1,7 +1,7 @@
 
 body{
 
-	height: 1000px;
+	height: 900px;
 
 }
 
@@ -747,7 +747,7 @@ img.superbg {
 
 	.rubrique6{
 
-		height: 158px;
+		height: 150px;
 		width: 100%;
 		overflow: hidden;
 		position: relative;
@@ -1075,6 +1075,364 @@ img.superbg {
 
 
 	}
+
+	.apparition{
+
+		left : 2%;
+		top:5%;
+		text-transform: uppercase;
+		color : white;
+		font-size: 1.3em;
+		
+		
+		opacity: 0;
+		transition: 0.8s;
+		position: absolute;
+		z-index: 4 
+	}
+
+	.v:hover .apparition{
+
+		opacity: 0.8;
+
+
+
+		
+
+
+	}
+
+	.apparition1{
+
+		left : 2%;
+		top:30%;
+		text-transform: uppercase;
+		color : white;
+		font-size: 0.8em;
+		
+		opacity: 0;
+		transition: 0.8s;
+		position: absolute;
+		z-index: 8;
+	}
+
+	.v:hover .apparition1{
+
+		opacity: 0.8;
+
+
+
+		
+
+
+	}
+
+	.v1:hover .apparition1{
+
+		opacity: 0.8;
+
+
+
+		
+
+
+	}
+
+	.v1:hover .apparition{
+
+		opacity: 0.8;
+		
+
+
+
+		
+
+
+	}
+
+	.apparition2{
+
+		left : 2%;
+		top:10%;
+		text-transform: uppercase;
+		color : white;
+		font-size: 1.2em;
+		
+		opacity: 0;
+		transition: 0.8s;
+		position: absolute;
+		z-index: 8;
+	}
+
+	.apparition1_2{
+
+		left : 2%;
+		top:45%;
+		text-transform: uppercase;
+		color : white;
+		font-size: 0.8em;
+		
+		opacity: 0;
+		transition: 0.8s;
+		position: absolute;
+		z-index: 8;
+	}
+
+
+
+
+
+
+	.rubrique8:hover .apparition2{
+
+		opacity: 0.8;
+
+
+
+		
+
+
+	}
+
+	.rubrique8:hover .apparition1_2{
+
+		opacity: 0.8;
+		
+
+
+
+		
+
+
+	}
+
+	.apparition2_7{
+
+		left : 2%;
+		top:10%;
+		text-transform: uppercase;
+		color : white;
+		font-size: 0.9em;
+		
+		opacity: 0;
+		transition: 0.8s;
+		position: absolute;
+		z-index: 8;
+	}
+
+	.apparition1_2_7{
+
+		left : 2%;
+		top:40%;
+		text-transform: uppercase;
+		color : white;
+		font-size: 0.8em;
+		
+		opacity: 0;
+		transition: 0.7s;
+		position: absolute;
+		z-index: 8;
+	}
+
+
+	.rubrique7:hover .apparition2_7{
+
+		opacity: 0.8;
+
+
+
+		
+
+
+	}
+
+	.rubrique7:hover .apparition1_2_7{
+
+		opacity: 0.8;
+		
+
+
+
+		
+
+
+	}
+
+	.apparition2_6{
+
+		left : 2%;
+		top:10%;
+		text-transform: uppercase;
+		color : white;
+		font-size: 0.9em;
+		
+		opacity: 0;
+		transition: 0.8s;
+		position: absolute;
+		z-index: 8;
+	}
+
+	.apparition1_2_6{
+
+		left : 2%;
+		top:40%;
+		text-transform: uppercase;
+		color : white;
+		font-size: 0.8em;
+		
+		opacity: 0;
+		transition: 0.7s;
+		position: absolute;
+		z-index: 8;
+	}
+
+
+	.rubrique6:hover .apparition2_6{
+
+		opacity: 0.8;
+
+
+
+		
+
+
+	}
+
+	.rubrique6:hover .apparition1_2_6{
+
+		opacity: 0.8;
+		
+
+
+
+		
+
+
+	}
+
+	.apparition2_3{
+
+		left : 2%;
+		top:10%;
+		text-transform: uppercase;
+		color : white;
+		font-size: 0.9em;
+		
+		opacity: 0;
+		transition: 0.8s;
+		position: absolute;
+		z-index: 8;
+	}
+
+	.apparition1_2_3{
+
+		left : 2%;
+		top:40%;
+		text-transform: uppercase;
+		color : white;
+		font-size: 0.8em;
+		
+		opacity: 0;
+		transition: 0.7s;
+		position: absolute;
+		z-index: 8;
+	}
+
+
+	.rubrique3:hover .apparition2_3{
+
+		opacity: 0.8;
+
+
+
+		
+
+
+	}
+
+	.rubrique3:hover .apparition1_2_3{
+
+		opacity: 0.8;
+		
+
+
+
+		
+
+
+	}
+
+	.rubrique4:hover .apparition2_3{
+
+		opacity: 0.8;
+
+
+
+		
+
+
+	}
+
+	.rubrique4:hover .apparition1_2_3{
+
+		opacity: 0.8;
+		
+
+
+
+		
+
+
+	}
+
+	.rubrique9:hover .apparition2_3{
+
+		opacity: 0.8;
+
+
+
+		
+
+
+	}
+
+	.rubrique9:hover .apparition1_2_3{
+
+		opacity: 0.8;
+		
+
+
+
+		
+
+
+	}
+
+	.rubrique5:hover .apparition2_3{
+
+		opacity: 0.8;
+
+
+
+		
+
+
+	}
+
+	.rubrique5:hover .apparition1_2_3{
+
+		opacity: 0.8;
+		
+
+
+
+		
+
+
+	}
+
+
+
 
 
 
